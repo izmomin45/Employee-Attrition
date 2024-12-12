@@ -1,7 +1,7 @@
 # Employee Attrition Analysis
 
  ## Project Description:
-                This project explores employee attrition and its influencing factors. The interactive dashboard allows users to filter data and gain insights into employees’ demographics, job roles, and satisfaction levels. It is designed to identify key trends and improve retention strategies.
+ This project explores employee attrition and its influencing factors. The interactive dashboard allows users to filter data and gain insights into employees’ demographics, job roles, and satisfaction levels. It is designed to identify key trends and improve retention strategies.
 
 ## Dataset Information:
 
@@ -36,3 +36,8 @@ Specific count of attrition vs non-attrition for each graph is integrated.
 4]Sales Executives and Research Scientists form the majority of the workforce.
 
 5]Employees with technical degrees have a slightly lower attrition rate.
+
+
+Please Share you feedback , 
+mominizhar45@gmail.com
+9834011201
